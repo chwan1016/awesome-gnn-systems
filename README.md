@@ -20,6 +20,8 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 
 - [CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://github.com/THUDM/cogdl) ![GitHub stars](https://img.shields.io/github/stars/THUDM/cogdl.svg?logo=github&label=Stars)
 
+- [DIG: A Turnkey Library for Diving into Graph Deep Learning Research](https://github.com/divelab/DIG) ![GitHub stars](https://img.shields.io/github/stars/divelab/DIG.svg?logo=github&label=Stars)
+
 - [Graph-Learn: An Industrial Graph Neural Network Framework](https://github.com/alibaba/graph-learn) ![GitHub stars](https://img.shields.io/github/stars/alibaba/graph-learn.svg?logo=github&label=Stars)
 
 - [Jraph: A Graph Neural Network Library in Jax](https://github.com/deepmind/jraph) ![GitHub stars](https://img.shields.io/github/stars/deepmind/jraph.svg?logo=github&label=Stars)
@@ -32,7 +34,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 - **[CSUR 2022]** Computing Graph Neural Networks: A Survey from Algorithms to Accelerators (*UPC*) [[paper]](https://dl.acm.org/doi/10.1145/3477141)
 
 ### Libraries
-
+- **[JMLR 2021]** DIG: A Turnkey Library for Diving into Graph Deep Learning Research (*TAMU*) [[paper]](https://arxiv.org/abs/2103.12608) [[code]](https://github.com/divelab/DIG)
 - **[arXiv 2021]** CogDL: A Toolkit for Deep Learning on Graphs (*THU*) [[paper]](https://arxiv.org/abs/2103.00959) [[code]](https://github.com/THUDM/cogdl)
 - **[CIM 2021]** Graph Neural Networks in TensorFlow and Keras with Spektral (*Università della Svizzera italiana*) [[paper]](https://arxiv.org/abs/2006.12138) [[code]](https://github.com/danielegrattarola/spektral)
 - **[arXiv 2019]** Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph Neural Networks (*AWS*) [[paper]](https://arxiv.org/abs/1909.01315v2) [[code]](https://github.com/dmlc/dgl)
@@ -76,7 +78,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 
 ### Training Systems for Scaling Graphs
 
-- **[ICML 2022]** GraphFM: Improving Large-Scale GNN Training via Feature Momentum (*TAMU*)
+- **[ICML 2022]** GraphFM: Improving Large-Scale GNN Training via Feature Momentum (*TAMU*) [[paper]](https://arxiv.org/abs/2206.07161) [[code]](https://github.com/divelab/DIG/tree/dig/dig/lsgraph)
 - **[ICML 2021]** GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings (*TU Dortmund University*) [[paper]](https://arxiv.org/abs/2106.05609) [[code]](https://github.com/rusty1s/pyg_autoscale)
 - **[OSDI 2021]** GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs (*UCSB*) [[paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf) [[code]](https://github.com/YukeWang96/OSDI21_AE)
 
