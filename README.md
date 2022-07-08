@@ -67,7 +67,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 - **[OSDI 2021]** $P^3$: Distributed Deep Graph Learning at Scale (*MSR*) [[paper]](https://www.usenix.org/system/files/osdi21-gandhi.pdf)
 - **[OSDI 2021]** Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads (*UCLA*) [[paper]](http://web.cs.ucla.edu/~harryxu/papers/dorylus-osdi21.pdf) [[code]](https://github.com/uclasystem/dorylus) 
 - **[EuroSys 2021]** FlexGraph: A Flexible and Efficient Distributed Framework for GNN Training (*Alibaba*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456229)
-- **[EuroSys 2021]** DGCL: An Efficient Communication Library for Distributed GNN Training (*CUHK*) [[paper]](https://dl.acm.org/doi/abs/10.1145/3447786.3456233) [[code]]()
+- **[EuroSys 2021]** DGCL: An Efficient Communication Library for Distributed GNN Training (*CUHK*) [[paper]](https://dl.acm.org/doi/abs/10.1145/3447786.3456233) [[code]](https://github.com/czkkkkkk/ragdoll)
 - **[SC 2020]** Reducing Communication in Graph Neural Network Training (*UC Berkeley*) [[paper]](https://arxiv.org/pdf/2005.03300.pdf) [[code]](https://github.com/PASSIONLab/CAGNET)
 - **[SoCC 2020]** PaGraph: Scaling GNN Training on Large Graphs via Computation-aware Caching (*USTC*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3419111.3421281) [[code]](https://github.com/zhiqi-0/PaGraph)
 - **[VLDB 2020]** G$^3$: When Graph Neural Networks Meet Parallel Graph Processing Systems on GPUs (*NUS*) [[paper]](http://www.vldb.org/pvldb/vol13/p2813-liu.pdf) [[code]](https://github.com/Xtra-Computing/G3)
