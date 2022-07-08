@@ -42,12 +42,15 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 - **[arXiv 2019]** Fast Graph Representation Learning with PyTorch Geometric (*TU Dortmund University*) [[paper]](https://arxiv.org/abs/1903.02428) [[code]](https://github.com/rusty1s/pytorch_geometric)
 - **[arXiv 2018]** Relational Inductive Biases, Deep Learning, and Graph Networks (*DeepMind*) [[paper]](https://arxiv.org/abs/1806.01261) [[code]](https://github.com/deepmind/graph_nets)
 
-### GNN Compilors
+### GNN Compilers
 
 - **[MLSys 2022]** Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph (*ShanghaiTech*) [[paper]](https://proceedings.mlsys.org/paper/2022/file/a87ff679a2f3e71d9181a67b7542122c-Paper.pdf) [[code]](https://github.com/xiezhq-hermann/graphiler)
+- **[MLSys 2022]** Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective (*THU*) [[paper]](https://proceedings.mlsys.org/paper/2022/file/9a1158154dfa42caddbd0694a4e9bdc8-Paper.pdf) [[code]](https://github.com/dgSPARSE/dgNN)
+- **[HPDC 2022]** TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU (*GW*) [[paper]](https://dl.acm.org/doi/abs/10.1145/3502181.3531467)
 - **[VLDB 2021]** Large Graph Convolutional Network Training with GPU-Oriented Data Communication Architecture (*UIUC*) [[paper]](https://arxiv.org/abs/2103.03330) [[code]](https://github.com/K-Wu/pytorch-direct_dgl)
 - **[IPDPS 2021]** FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks (*Indiana University Bloomington*) [[paper]](https://arxiv.org/abs/2011.06391) [[code]](https://github.com/HipGraph/FusedMM)
 - **[EuroSys 2021]** Seastar: Vertex-Centric Programming for Graph Neural Networks (*CUHK*) [[paper]](http://www.cse.cuhk.edu.hk/~jcheng/papers/seastar_eurosys21.pdf)
+- **[PPoPP 2021]** Understanding and Bridging the Gaps in Current GNN Performance Optimizations (*THU*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3437801.3441585) [[code]](https://github.com/xxcclong/GNN-Computing)
 - **[SC 2020]** FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems (*Cornell*) [[paper]](https://arxiv.org/pdf/2008.11359.pdf) [[code]](https://github.com/dglai/FeatGraph)
 - **[SC 2020]** GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks (*THU*) [[paper]](https://arxiv.org/abs/2007.03179) [[code]](https://github.com/hgyhungry/ge-spmm)
 - **[ICCAD 2020]** fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU (*UCSB*) [[paper]](https://seal.ece.ucsb.edu/sites/default/files/publications/fusegcn_camera_ready_.pdf) [[code]](https://github.com/apuaaChen/gcnLib)
@@ -61,7 +64,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 - **[ICLR 2022]** PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication (*Rice*) [[paper]](https://openreview.net/pdf?id=kSwqMH0zn1F) [[code]](https://github.com/RICE-EIC/PipeGCN)
 - **[ICLR 2022]** Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks (*PSU*) [[paper]](https://openreview.net/pdf?id=FndDxSz3LxQ) [[code]](https://github.com/MortezaRamezani/llcg)
 - **[arXiv 2021]** Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Graphs (*AWS*) [[paper]](https://arxiv.org/pdf/2112.15345.pdf)
-- **[SC 2021]** DistGNN: scalable distributed training for large-scale graph neural networks (*Intel*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3458817.3480856) [[code]](https://github.com/dmlc/dgl/pull/3024)
+- **[SC 2021]** DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks (*Intel*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3458817.3480856) [[code]](https://github.com/dmlc/dgl/pull/3024)
 - **[SC 2021]** Efficient Scaling of Dynamic Graph Neural Networks (*IBM*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3458817.3480858)
 - **[CLUSTER 2021]** 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters (*NUDT*) [[paper]](https://ieeexplore.ieee.org/abstract/document/9556026)
 - **[OSDI 2021]** $P^3$: Distributed Deep Graph Learning at Scale (*MSR*) [[paper]](https://www.usenix.org/system/files/osdi21-gandhi.pdf)
