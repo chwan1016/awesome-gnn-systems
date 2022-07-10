@@ -88,7 +88,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 
 ### Quantized GNNs
 
-- **[Neurocomputing]** EPQuant: A Graph Neural Network compression approach based on product quantization (*ZJU*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222008293) [[code]](https://github.com/Lyun-Huang/EPQuant)
+- **[Neurocomputing 2022]** EPQuant: A Graph Neural Network compression approach based on product quantization (*ZJU*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222008293) [[code]](https://github.com/Lyun-Huang/EPQuant)
 - **[ICLR 2022]** EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression (*Rice*) [[paper]](https://openreview.net/pdf?id=vkaMaq95_rX) [[code]](https://github.com/warai-0toko/Exact)
 - **[PPoPP 2022]** QGTC: Accelerating Quantized Graph Neural Networks via GPU Tensor Core (*UCSB*) [[paper]](https://arxiv.org/abs/2111.09547) [[code]](https://github.com/YukeWang96/PPoPP22_QGTC)
 - **[CVPR 2021]** Binary Graph Neural Networks (*ICL*) [[paper]](https://arxiv.org/abs/2012.15823) [[code]](https://github.com/mbahri/binary_gnn)
