@@ -1,0 +1,102 @@
+{
+	"title": "GNN Inference Accelerators",
+    "paper": [
+        {
+        	"venue": "IPDPS 2022",
+            "name": "Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators",
+            "affiliation": "GaTech",
+            "link": "https://arxiv.org/abs/2103.07977",
+            "source": "https://github.com/stonne-simulator/omega"
+        },
+        {
+        	"venue": "HPCA 2022",
+            "name": "GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design",
+            "affiliation": "Rice, PNNL",
+            "link": "https://arxiv.org/abs/2112.11594",
+            "source": "https://github.com/RICE-EIC/GCoD"
+        },
+        {
+        	"venue": "DAC 2021",
+            "name": "DyGNN: Algorithm and Architecture Support of vertex Dynamic Pruning for Graph Neural Networks",
+            "affiliation": "Hunan University",
+            "link": "https://ieeexplore.ieee.org/document/9586298"
+        },
+        {
+        	"venue": "DAC 2021",
+            "name": "BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices",
+            "affiliation": "PKU*) [[paepr]](https://arxiv.org/abs/2104.06214"
+        },
+        {
+        	"venue": "DAC 2021",
+            "name": "TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning",
+            "affiliation": "Chinese Academy of Sciences",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9586193"
+        },
+        {
+        	"venue": "ICCAD 2021",
+            "name": "G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency",
+            "affiliation": "Rice",
+            "link": "https://arxiv.org/abs/2109.08983"
+        },
+        {
+        	"venue": "MICRO 2021",
+            "name": "I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization",
+            "affiliation": "PNNL",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3466752.3480113"
+        },
+        {
+        	"venue": "arXiv 2021",
+            "name": "ZIPPER: Exploiting Tile- and Operator-level Parallelism for General and Scalable Graph Neural Network Acceleration",
+            "affiliation": "SJTU",
+            "link": "https://arxiv.org/abs/2107.08709"
+        },
+        {
+        	"venue": "TComp 2021",
+            "name": "EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks",
+            "affiliation": "Chinese Academy of Sciences",
+            "link": "https://arxiv.org/abs/1909.00155"
+        },
+        {
+        	"venue": "HPCA 2021",
+            "name": "GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks",
+            "affiliation": "GWU",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9407104"
+        },
+        {
+        	"venue": "APA 2020",
+            "name": "GNN-PIM: A Processing-in-Memory Architecture for Graph Neural Networks",
+            "affiliation": "PKU",
+            "link": "http://115.27.240.201/docs/20200915165942122459.pdf"
+        },
+        {
+        	"venue": "ASAP 2020",
+            "name": "Hardware Acceleration of Large Scale GCN Inference",
+            "affiliation": "USC",
+            "link": "https://ieeexplore.ieee.org/document/9153263"
+        },
+        {
+        	"venue": "DAC 2020",
+            "name": "Hardware Acceleration of Graph Neural Networks",
+            "affiliation": "UIUC",
+            "link": "http://rakeshk.web.engr.illinois.edu/dac20.pdf"
+        },
+        {
+        	"venue": "MICRO 2020",
+            "name": "AWB-GCN: A graph convolutional network accelerator with runtime workload rebalancing",
+            "affiliation": "PNNL",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9252000"
+        },
+        {
+        	"venue": "arXiv 2020",
+            "name": "GRIP: A Graph Neural Network Accelerator Architecture",
+            "affiliation": "Stanford",
+            "link": "https://arxiv.org/pdf/2007.13828.pdf"
+        },
+        {
+        	"venue": "HPCA 2020",
+            "name": "HyGCN: A GCN Accelerator with Hybrid Architecture",
+            "affiliation": "UCSB",
+            "link": "https://arxiv.org/pdf/2001.02514.pdf"
+        }
+    ]
+}

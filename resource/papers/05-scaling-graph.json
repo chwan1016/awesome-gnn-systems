@@ -1,0 +1,26 @@
+{
+	"title": "Training Systems for Scaling Graphs",
+    "paper": [
+        {
+        	"venue": "ICML 2022",
+            "name": "GraphFM: Improving Large-Scale GNN Training via Feature Momentum",
+            "affiliation": "TAMU",
+            "link": "https://arxiv.org/abs/2206.07161",
+            "source": "https://github.com/divelab/DIG/tree/dig/dig/lsgraph"
+        },
+        {
+        	"venue": "ICML 2021",
+            "name": "GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings",
+            "affiliation": "TU Dortmund University",
+            "link": "https://arxiv.org/abs/2106.05609",
+            "source": "https://github.com/rusty1s/pyg_autoscale"
+        },
+        {
+        	"venue": "OSDI 2021",
+            "name": "GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs",
+            "affiliation": "UCSB",
+            "link": "https://www.usenix.org/system/files/osdi21-wang-yuke.pdf",
+            "source": "https://github.com/YukeWang96/OSDI21_AE"
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+	"title": "Survey Papers",
+	"paper": [
+		{
+			"name": "Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis",
+			"venue": "arXiv 2022",
+			"affiliation": "ETHZ",
+			"link": "https://arxiv.org/abs/2205.09702"
+		},
+		{
+			"name": "Computing Graph Neural Networks: A Survey from Algorithms to Accelerators",
+			"venue": "CSUR 2022",
+			"affiliation": "UPC",
+			"link": "https://dl.acm.org/doi/10.1145/3477141"
+		}
+	]
+}

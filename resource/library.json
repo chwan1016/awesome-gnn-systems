@@ -1,0 +1,46 @@
+[
+	{
+		"name": "PyG: Graph Neural Network Library for PyTorch",
+		"source": "https://github.com/rusty1s/pytorch_geometric"
+	},
+	{
+		"name": "DGL: Python Package Built to Ease Deep Learning on Graph",
+		"source": "https://github.com/dmlc/dgl"
+	},
+	{
+		"name": "Graph Nets: Build Graph Nets in Tensorflow",
+		"source": "https://github.com/deepmind/graph_nets"
+	},
+	{
+		"name": "Euler: A Distributed Graph Deep Learning Framework",
+		"source": "https://github.com/alibaba/euler"
+	},
+	{
+		"name": "StellarGraph: Machine Learning on Graphs",
+		"source": "https://github.com/stellargraph/stellargraph"
+	},
+	{
+		"name": "Spektral: Graph Neural Networks with Keras and Tensorflow 2",
+		"source": "https://github.com/danielegrattarola/spektral"
+	},
+	{
+		"name": "PGL: An Efficient and Flexible Graph Learning Framework Based on PaddlePaddle",
+		"source": "https://github.com/PaddlePaddle/PGL"
+	},
+	{
+		"name": "CogDL: An Extensive Toolkit for Deep Learning on Graphs",
+		"source": "https://github.com/THUDM/cogdl"
+	},
+	{
+		"name": "DIG: A Turnkey Library for Diving into Graph Deep Learning Research",
+		"source": "https://github.com/divelab/DIG"
+	},
+	{
+		"name": "Graph-Learn: An Industrial Graph Neural Network Framework",
+		"source": "https://github.com/alibaba/graph-learn"
+	},
+	{
+		"name": "Jraph: A Graph Neural Network Library in Jax",
+		"source": "https://github.com/deepmind/jraph"
+	}
+]
