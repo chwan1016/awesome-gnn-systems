@@ -101,7 +101,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 
 ### GNN Dataloaders
 
-- **[arXiv 2022]** BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing (*ByteDance*) [[paper]](https://arxiv.org/abs/2112.08541)
+- **[NSDI 2023]** BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing (*ByteDance*) [[paper]](https://arxiv.org/abs/2112.08541)
 - **[MLSys 2022]** Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining (*MIT*) [[paper]](https://proceedings.mlsys.org/paper/2022/file/35f4a8d465e6e1edc05f3d8ab658c551-Paper.pdf) [[code]](https://github.com/MITIBMxGraph/SALIENT)
 - **[TPDS 2021]** Efficient Data Loader for Fast Sampling-Based GNN Training on Large Graphs (*USTC*) [[paper]](https://gnnsys.github.io/papers/GNNSys21_paper_8.pdf) [[code]](https://github.com/zhiqi-0/PaGraph)
 - **[arXiv 2019]** TigerGraph: A Native MPP Graph Database (*UCSD*) [[paper]](https://arxiv.org/pdf/1901.08248.pdf)
