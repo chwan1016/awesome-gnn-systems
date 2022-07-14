@@ -83,6 +83,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 ### Training Systems for Scaling Graphs
 
 - **[ICML 2022]** GraphFM: Improving Large-Scale GNN Training via Feature Momentum (*TAMU*) [[paper]](https://arxiv.org/abs/2206.07161) [[code]](https://github.com/divelab/DIG/tree/dig/dig/lsgraph)
+- **[arXiv 2022]** Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine (*ETHZ*) [[paper]](https://arxiv.org/abs/2202.02365) [[code]](https://github.com/marius-team/marius)
 - **[ICML 2021]** GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings (*TU Dortmund University*) [[paper]](https://arxiv.org/abs/2106.05609) [[code]](https://github.com/rusty1s/pyg_autoscale)
 - **[OSDI 2021]** GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs (*UCSB*) [[paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf) [[code]](https://github.com/YukeWang96/OSDI21_AE)
 
@@ -100,6 +101,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 
 ### GNN Dataloaders
 
+- **[arXiv 2022]** BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing (*ByteDance*) [[paper]](https://arxiv.org/abs/2112.08541)
 - **[MLSys 2022]** Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining (*MIT*) [[paper]](https://proceedings.mlsys.org/paper/2022/file/35f4a8d465e6e1edc05f3d8ab658c551-Paper.pdf) [[code]](https://github.com/MITIBMxGraph/SALIENT)
 - **[TPDS 2021]** Efficient Data Loader for Fast Sampling-Based GNN Training on Large Graphs (*USTC*) [[paper]](https://gnnsys.github.io/papers/GNNSys21_paper_8.pdf) [[code]](https://github.com/zhiqi-0/PaGraph)
 - **[arXiv 2019]** TigerGraph: A Native MPP Graph Database (*UCSD*) [[paper]](https://arxiv.org/pdf/1901.08248.pdf)
