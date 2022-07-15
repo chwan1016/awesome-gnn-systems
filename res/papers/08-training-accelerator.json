@@ -1,42 +1,42 @@
 {
-	"title": "GNN Training Accelerators",
+    "title": "GNN Training Accelerators",
     "paper": [
         {
             "venue": "ISCA 2022",
             "name": "Graphite: Optimizing Graph Neural Networks on CPUs Through Cooperative Software-Hardware Techniques",
             "affiliation": "UIUC",
-            "link": "http://iacoma.cs.uiuc.edu/iacoma-papers/isca22.pdf",
+            "link": "http://iacoma.cs.uiuc.edu/iacoma-papers/isca22.pdf"
         },
         {
-        	"venue": "ISCA 2022",
+            "venue": "ISCA 2022",
             "name": "Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network",
             "affiliation": "Alibaba",
             "link": "https://dl.acm.org/doi/abs/10.1145/3470496.3527439"
         },
         {
-        	"venue": "arXiv 2021",
+            "venue": "arXiv 2021",
             "name": "GCNear: A Hybrid Architecture for Efficient GCN Training with Near-Memory Processing",
             "affiliation": "PKU",
             "link": "https://arxiv.org/abs/2111.00680"
         },
         {
-        	"venue": "DATE 2021",
+            "venue": "DATE 2021",
             "name": "ReGraphX: NoC-enabled 3D Heterogeneous ReRAM Architecture for Training Graph Neural Networks",
             "affiliation": "WSU",
             "link": "https://arxiv.org/abs/2102.07959"
         },
         {
-        	"venue": "TCAD 2021",
+            "venue": "TCAD 2021",
             "name": "Rubik: A Hierarchical Architecture for Efficient Graph Learning",
             "affiliation": "Chinese Academy of Sciences",
             "link": "https://arxiv.org/pdf/2009.12495.pdf"
         },
         {
-        	"venue": "FPGA 2020",
+            "venue": "FPGA 2020",
             "name": "GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms",
             "affiliation": "USC",
             "link": "https://dl.acm.org/doi/pdf/10.1145/3373087.3375312",
             "source": "https://github.com/GraphSAINT/GraphACT"
-        },
+        }
     ]
 }

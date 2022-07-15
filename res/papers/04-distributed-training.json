@@ -1,137 +1,137 @@
 {
-	"title": "Distributed GNN Training Systems",
+    "title": "Distributed GNN Training Systems",
     "paper": [
         {
-        	"venue": "MLSys 2022",
+            "venue": "MLSys 2022",
             "name": "BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Partition-Parallelism and Random Boundary Node Sampling",
             "affiliation": "Rice, UIUC",
             "link": "https://proceedings.mlsys.org/paper/2022/file/d1fe173d08e959397adf34b1d77e88d7-Paper.pdf",
             "source": "https://github.com/RICE-EIC/BNS-GCN"
         },
         {
-        	"venue": "MLSys 2022",
+            "venue": "MLSys 2022",
             "name": "Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs",
             "affiliation": "Intel",
             "link": "https://arxiv.org/abs/2111.06483",
             "source": "https://github.com/IntelLabs/SAR"
         },
         {
-        	"venue": "WWW 2022",
+            "venue": "WWW 2022",
             "name": "PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm",
             "affiliation": "PKU",
             "link": "https://dl.acm.org/doi/abs/10.1145/3485447.3511986"
         },
         {
-        	"venue": "ICLR 2022",
+            "venue": "ICLR 2022",
             "name": "PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication",
             "affiliation": "Rice",
             "link": "https://openreview.net/pdf?id=kSwqMH0zn1F",
             "source": "https://github.com/RICE-EIC/PipeGCN"
         },
         {
-        	"venue": "ICLR 2022",
+            "venue": "ICLR 2022",
             "name": "Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks",
             "affiliation": "PSU",
             "link": "https://openreview.net/pdf?id=FndDxSz3LxQ",
             "source": "https://github.com/MortezaRamezani/llcg"
         },
         {
-        	"venue": "arXiv 2021",
+            "venue": "arXiv 2021",
             "name": "Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Graphs",
             "affiliation": "AWS",
             "link": "https://arxiv.org/pdf/2112.15345.pdf"
         },
         {
-        	"venue": "SC 2021",
+            "venue": "SC 2021",
             "name": "DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks",
             "affiliation": "Intel",
             "link": "https://dl.acm.org/doi/pdf/10.1145/3458817.3480856",
             "source": "https://github.com/dmlc/dgl/pull/3024"
         },
         {
-        	"venue": "SC 2021",
+            "venue": "SC 2021",
             "name": "Efficient Scaling of Dynamic Graph Neural Networks",
             "affiliation": "IBM",
             "link": "https://dl.acm.org/doi/pdf/10.1145/3458817.3480858"
         },
         {
-        	"venue": "CLUSTER 2021",
+            "venue": "CLUSTER 2021",
             "name": "2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters",
             "affiliation": "NUDT",
             "link": "https://ieeexplore.ieee.org/abstract/document/9556026"
         },
         {
-        	"venue": "OSDI 2021",
+            "venue": "OSDI 2021",
             "name": "$P^3$: Distributed Deep Graph Learning at Scale",
             "affiliation": "MSR",
             "link": "https://www.usenix.org/system/files/osdi21-gandhi.pdf"
         },
         {
-        	"venue": "OSDI 2021",
+            "venue": "OSDI 2021",
             "name": "Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads",
             "affiliation": "UCLA",
             "link": "http://web.cs.ucla.edu/~harryxu/papers/dorylus-osdi21.pdf",
             "source": "https://github.com/uclasystem/dorylus) "
         },
         {
-        	"venue": "EuroSys 2021",
+            "venue": "EuroSys 2021",
             "name": "FlexGraph: A Flexible and Efficient Distributed Framework for GNN Training",
             "affiliation": "Alibaba",
             "link": "https://dl.acm.org/doi/pdf/10.1145/3447786.3456229"
         },
         {
-        	"venue": "EuroSys 2021",
+            "venue": "EuroSys 2021",
             "name": "DGCL: An Efficient Communication Library for Distributed GNN Training",
             "affiliation": "CUHK",
             "link": "https://dl.acm.org/doi/abs/10.1145/3447786.3456233",
             "source": "https://github.com/czkkkkkk/ragdoll"
         },
         {
-        	"venue": "SC 2020",
+            "venue": "SC 2020",
             "name": "Reducing Communication in Graph Neural Network Training",
             "affiliation": "UC Berkeley",
             "link": "https://arxiv.org/pdf/2005.03300.pdf",
             "source": "https://github.com/PASSIONLab/CAGNET"
         },
         {
-        	"venue": "SoCC 2020",
+            "venue": "SoCC 2020",
             "name": "PaGraph: Scaling GNN Training on Large Graphs via Computation-aware Caching",
             "affiliation": "USTC",
             "link": "https://dl.acm.org/doi/pdf/10.1145/3419111.3421281",
             "source": "https://github.com/zhiqi-0/PaGraph"
         },
         {
-        	"venue": "VLDB 2020",
+            "venue": "VLDB 2020",
             "name": "G$^3$: When Graph Neural Networks Meet Parallel Graph Processing Systems on GPUs",
             "affiliation": "NUS",
             "link": "http://www.vldb.org/pvldb/vol13/p2813-liu.pdf",
             "source": "https://github.com/Xtra-Computing/G3"
         },
         {
-        	"venue": "IA3 2020",
+            "venue": "IA3 2020",
             "name": "DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs",
             "affiliation": "AWS",
             "link": "https://arxiv.org/pdf/2010.05337.pdf",
             "source": "https://github.com/dmlc/dgl/tree/master/python/dgl/distributed"
         },
         {
-        	"venue": "MLSys 2020",
+            "venue": "MLSys 2020",
             "name": "Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc",
             "affiliation": "Stanford",
             "link": "https://proceedings.mlsys.org/paper/2020/file/fe9fc289c3ff0af142b6d3bead98a923-Paper.pdf",
             "source": "https://github.com/jiazhihao/ROC"
         },
         {
-        	"venue": "arXiv 2020",
+            "venue": "arXiv 2020",
             "name": "AGL: A Scalable System for Industrial-purpose Graph Machine Learning",
             "affiliation": "Ant Financial Services Group",
             "link": "https://arxiv.org/abs/2003.02454"
         },
         {
-        	"venue": "ATC 2019",
+            "venue": "ATC 2019",
             "name": "NeuGraph: Parallel Deep Neural Network Computation on Large Graphs",
             "affiliation": "PKU",
             "link": "https://www.usenix.org/system/files/atc19-ma_0.pdf"
-        },
+        }
     ]
 }

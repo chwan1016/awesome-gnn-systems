@@ -1,66 +1,66 @@
 {
-	"title": "Quantized GNNs",
+    "title": "Quantized GNNs",
     "paper": [
         {
-        	"venue": "Neurocomputing 2022",
+            "venue": "Neurocomputing 2022",
             "name": "EPQuant: A Graph Neural Network compression approach based on product quantization",
             "affiliation": "ZJU",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231222008293",
             "source": "https://github.com/Lyun-Huang/EPQuant"
         },
         {
-        	"venue": "ICLR 2022",
+            "venue": "ICLR 2022",
             "name": "EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression",
             "affiliation": "Rice",
             "link": "https://openreview.net/pdf?id=vkaMaq95_rX",
             "source": "https://github.com/warai-0toko/Exact"
         },
         {
-        	"venue": "PPoPP 2022",
+            "venue": "PPoPP 2022",
             "name": "QGTC: Accelerating Quantized Graph Neural Networks via GPU Tensor Core",
             "affiliation": "UCSB",
             "link": "https://arxiv.org/abs/2111.09547",
             "source": "https://github.com/YukeWang96/PPoPP22_QGTC"
         },
         {
-        	"venue": "CVPR 2021",
+            "venue": "CVPR 2021",
             "name": "Binary Graph Neural Networks",
             "affiliation": "ICL",
             "link": "https://arxiv.org/abs/2012.15823",
             "source": "https://github.com/mbahri/binary_gnn"
         },
         {
-        	"venue": "CVPR 2021",
+            "venue": "CVPR 2021",
             "name": "Bi-GCN: Binary Graph Convolutional Network",
             "affiliation": "Beihang University",
             "link": "https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Bi-GCN_Binary_Graph_Convolutional_Network_CVPR_2021_paper.html",
             "source": "https://github.com/bywmm/Bi-GCN"
         },
         {
-        	"venue": "EuroMLSys 2021",
+            "venue": "EuroMLSys 2021",
             "name": "Learned Low Precision Graph Neural Networks",
             "affiliation": "Cambridge",
             "link": "https://arxiv.org/abs/2009.09232"
         },
         {
-        	"venue": "World Wide Web 2021",
+            "venue": "World Wide Web 2021",
             "name": "Binarized Graph Neural Network",
             "affiliation": "UTS",
             "link": "https://arxiv.org/pdf/2004.11147.pdf"
         },
         {
-        	"venue": "ICLR 2021",
+            "venue": "ICLR 2021",
             "name": "Degree-Quant: Quantization-Aware Training for Graph Neural Networks",
             "affiliation": "Cambridge",
             "link": "https://arxiv.org/abs/2008.05000",
             "source": "https://github.com/camlsys/degree-quant"
         },
         {
-        	"venue": "ICTAI 2020",
+            "venue": "ICTAI 2020",
             "name": "SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization",
             "affiliation": "UCSB",
             "link": "https://ieeexplore.ieee.org/abstract/document/9288186/",
             "source": "https://github.com/YukeWang96/SGQuant"
-        },
+        }
     ]
 }

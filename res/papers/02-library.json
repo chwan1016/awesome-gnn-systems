@@ -1,54 +1,54 @@
 {
-	"title": "GNN Libraries",
-	"paper": [
-		{
-			"venue": "JMLR 2021",
-			"name": "DIG: A Turnkey Library for Diving into Graph Deep Learning Research",
-			"affiliation": "TAMU",
-			"link": "https://arxiv.org/abs/2103.12608",
-			"source": "https://github.com/divelab/DIG"
-		},
-		{
-			"venue": "arXiv 2021",
-			"name": "CogDL: An Extensive Toolkit for Deep Learning on Graphs",
-			"affiliation": "THU",
-			"link": "https://arxiv.org/abs/2103.00959",
-			"source": "https://github.com/THUDM/cogdl"
-		},
-		{
-			"venue": "CIM 2021",
-			"name": "Graph Neural Networks in TensorFlow and Keras with Spektral",
-			"affiliation": "Università della Svizzera italiana",
-			"link": "https://arxiv.org/abs/2006.12138",
-			"source": "https://github.com/danielegrattarola/spektral"
-		},
-		{
-			"venue": "arXiv 2019",
-			"name": "DGL: Python Package Built to Ease Deep Learning on Graph",
-			"affiliation": "AWS",
-			"link": "https://arxiv.org/abs/1909.01315",
-			"source": "https://github.com/dmlc/dgl"
-		},
-		{
-			"venue": "VLDB 2019",
-			"name": "Graph-Learn: An Industrial Graph Neural Network Framework",
-			"affiliation": "Alibaba",
-			"link": "https://dl.acm.org/doi/pdf/10.14778/3352063.3352127",
-			"source": "https://github.com/alibaba/graph-learn"
-		},
-		{
-			"venue": "arXiv 2019",
-			"name": "PyG: Graph Neural Network Library for PyTorch",
-			"affiliation": "TU Dortmund University",
-			"link": "https://arxiv.org/abs/1903.02428",
-			"source": "https://github.com/rusty1s/pytorch_geometric"
-		},
-		{
-			"venue": "arXiv 2018",
-			"name": "Graph Nets: Build Graph Nets in Tensorflow",
-			"affiliation": "DeepMind",
-			"link": "https://arxiv.org/abs/1806.01261",
-			"source": "https://github.com/deepmind/graph_nets"
-		}
-	]
+    "title": "GNN Libraries",
+    "paper": [
+        {
+            "venue": "JMLR 2021",
+            "name": "DIG: A Turnkey Library for Diving into Graph Deep Learning Research",
+            "affiliation": "TAMU",
+            "link": "https://arxiv.org/abs/2103.12608",
+            "source": "https://github.com/divelab/DIG"
+        },
+        {
+            "venue": "arXiv 2021",
+            "name": "CogDL: An Extensive Toolkit for Deep Learning on Graphs",
+            "affiliation": "THU",
+            "link": "https://arxiv.org/abs/2103.00959",
+            "source": "https://github.com/THUDM/cogdl"
+        },
+        {
+            "venue": "CIM 2021",
+            "name": "Graph Neural Networks in TensorFlow and Keras with Spektral",
+            "affiliation": "Università della Svizzera italiana",
+            "link": "https://arxiv.org/abs/2006.12138",
+            "source": "https://github.com/danielegrattarola/spektral"
+        },
+        {
+            "venue": "arXiv 2019",
+            "name": "DGL: Python Package Built to Ease Deep Learning on Graph",
+            "affiliation": "AWS",
+            "link": "https://arxiv.org/abs/1909.01315",
+            "source": "https://github.com/dmlc/dgl"
+        },
+        {
+            "venue": "VLDB 2019",
+            "name": "Graph-Learn: An Industrial Graph Neural Network Framework",
+            "affiliation": "Alibaba",
+            "link": "https://dl.acm.org/doi/pdf/10.14778/3352063.3352127",
+            "source": "https://github.com/alibaba/graph-learn"
+        },
+        {
+            "venue": "arXiv 2019",
+            "name": "PyG: Graph Neural Network Library for PyTorch",
+            "affiliation": "TU Dortmund University",
+            "link": "https://arxiv.org/abs/1903.02428",
+            "source": "https://github.com/rusty1s/pytorch_geometric"
+        },
+        {
+            "venue": "arXiv 2018",
+            "name": "Graph Nets: Build Graph Nets in Tensorflow",
+            "affiliation": "DeepMind",
+            "link": "https://arxiv.org/abs/1806.01261",
+            "source": "https://github.com/deepmind/graph_nets"
+        }
+    ]
 }

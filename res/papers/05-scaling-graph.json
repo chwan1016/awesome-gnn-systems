@@ -1,5 +1,5 @@
 {
-	"title": "Training Systems for Scaling Graphs",
+    "title": "Training Systems for Scaling Graphs",
     "paper": [
         {
             "venue": "ICML 2022",
@@ -16,18 +16,18 @@
             "source": "https://github.com/marius-team/marius"
         },
         {
-        	"venue": "ICML 2021",
+            "venue": "ICML 2021",
             "name": "GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings",
             "affiliation": "TU Dortmund University",
             "link": "https://arxiv.org/abs/2106.05609",
             "source": "https://github.com/rusty1s/pyg_autoscale"
         },
         {
-        	"venue": "OSDI 2021",
+            "venue": "OSDI 2021",
             "name": "GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs",
             "affiliation": "UCSB",
             "link": "https://www.usenix.org/system/files/osdi21-wang-yuke.pdf",
             "source": "https://github.com/YukeWang96/OSDI21_AE"
-        },
+        }
     ]
 }
