@@ -2,6 +2,12 @@
 	"title": "GNN Training Accelerators",
     "paper": [
         {
+            "venue": "ISCA 2022",
+            "name": "Graphite: Optimizing Graph Neural Networks on CPUs Through Cooperative Software-Hardware Techniques",
+            "affiliation": "UIUC",
+            "link": "http://iacoma.cs.uiuc.edu/iacoma-papers/isca22.pdf",
+        },
+        {
         	"venue": "ISCA 2022",
             "name": "Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network",
             "affiliation": "Alibaba",

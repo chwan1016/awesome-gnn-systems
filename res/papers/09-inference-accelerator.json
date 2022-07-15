@@ -9,7 +9,19 @@
             "source": "https://github.com/stonne-simulator/omega"
         },
         {
-        	"venue": "HPCA 2022",
+            "venue": "CICC 2022",
+            "name": "StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing",
+            "affiliation": "UCLA",
+            "link": "https://web.cs.ucla.edu/~atefehsz/publication/StreamGCN-CICC22.pdf"
+        },
+        {
+            "venue": "HPCA 2022",
+            "name": "Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures",
+            "affiliation": "HUST",
+            "link": "https://ieeexplore.ieee.org/document/9773267/authors#authors"
+        },
+        {
+            "venue": "HPCA 2022",
             "name": "GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design",
             "affiliation": "Rice, PNNL",
             "link": "https://arxiv.org/abs/2112.11594",
