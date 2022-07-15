@@ -2,6 +2,12 @@
 	"title": "GNN Dataloaders",
     "paper": [
         {
+            "venue": "NSDI 2023",
+            "name": "BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing",
+            "affiliation": "ByteDance",
+            "link": "https://arxiv.org/abs/2112.08541"
+        }
+        {
         	"venue": "MLSys 2022",
             "name": "Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining",
             "affiliation": "MIT",
