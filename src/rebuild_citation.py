@@ -20,7 +20,7 @@ for key in list(table.keys()):
 
 for paper in full_papers:
 	if paper not in table:
-		table[paper] = {'citation': 0, 'last update': '04/08/2016'}
+		table[paper] = {'citation': 0, 'last update': '2016-04-08'}
 
 with open('../.github/citation/citation.json', 'w') as f:
 	json.dump(table, f)

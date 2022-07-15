@@ -10,7 +10,7 @@
         },
         {
             "venue": "arXiv 2021",
-            "name": "CogDL: An Extensive Toolkit for Deep Learning on Graphs",
+            "name": "CogDL: A Toolkit for Deep Learning on Graphs",
             "affiliation": "THU",
             "link": "https://arxiv.org/abs/2103.00959",
             "source": "https://github.com/THUDM/cogdl"
@@ -24,28 +24,28 @@
         },
         {
             "venue": "arXiv 2019",
-            "name": "DGL: Python Package Built to Ease Deep Learning on Graph",
+            "name": "Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph Neural Networks",
             "affiliation": "AWS",
             "link": "https://arxiv.org/abs/1909.01315",
             "source": "https://github.com/dmlc/dgl"
         },
         {
             "venue": "VLDB 2019",
-            "name": "Graph-Learn: An Industrial Graph Neural Network Framework",
+            "name": " AliGraph: A Comprehensive Graph Neural Network Platform",
             "affiliation": "Alibaba",
             "link": "https://dl.acm.org/doi/pdf/10.14778/3352063.3352127",
             "source": "https://github.com/alibaba/graph-learn"
         },
         {
             "venue": "arXiv 2019",
-            "name": "PyG: Graph Neural Network Library for PyTorch",
+            "name": "Fast Graph Representation Learning with PyTorch Geometric",
             "affiliation": "TU Dortmund University",
             "link": "https://arxiv.org/abs/1903.02428",
             "source": "https://github.com/rusty1s/pytorch_geometric"
         },
         {
             "venue": "arXiv 2018",
-            "name": "Graph Nets: Build Graph Nets in Tensorflow",
+            "name": "Relational Inductive Biases, Deep Learning, and Graph Networks",
             "affiliation": "DeepMind",
             "link": "https://arxiv.org/abs/1806.01261",
             "source": "https://github.com/deepmind/graph_nets"
