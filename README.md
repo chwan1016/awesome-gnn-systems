@@ -1,7 +1,6 @@
 # Awesome Graph Neural Network Systems [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome systems for graph neural network (GNN). If you have any comment, please create an issue or pull request.
-
 ## Contents
 - [Open Source Libraries](#open-source-libraries)
 - [Papers](#papers)
@@ -29,12 +28,12 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 - [Jraph: A Graph Neural Network Library in Jax](https://github.com/deepmind/jraph) ![GitHub stars](https://img.shields.io/github/stars/deepmind/jraph.svg?logo=github&label=Stars)
 ## Papers
 ### Survey Papers
-| Venue | Title | Affiliation | Link | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |arXiv 2022|Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis|ETHZ| [[paper]](https://arxiv.org/abs/2205.09702)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |CSUR 2022|Computing Graph Neural Networks: A Survey from Algorithms to Accelerators|UPC| [[paper]](https://dl.acm.org/doi/10.1145/3477141)![Scholar citations](https://img.shields.io/badge/Citations-53-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### GNN Libraries
-| Venue | Title | Affiliation | Link | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |JMLR 2021|DIG: A Turnkey Library for Diving into Graph Deep Learning Research|TAMU| [[paper]](https://arxiv.org/abs/2103.12608)![Scholar citations](https://img.shields.io/badge/Citations-19-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/divelab/DIG)![GitHub stars](https://img.shields.io/github/stars/divelab/DIG.svg?logo=github&label=Stars)|
 |arXiv 2021|CogDL: A Toolkit for Deep Learning on Graphs|THU| [[paper]](https://arxiv.org/abs/2103.00959)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/THUDM/cogdl)![GitHub stars](https://img.shields.io/github/stars/THUDM/cogdl.svg?logo=github&label=Stars)|
@@ -44,7 +43,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |arXiv 2019|Fast Graph Representation Learning with PyTorch Geometric|TU Dortmund University| [[paper]](https://arxiv.org/abs/1903.02428)![Scholar citations](https://img.shields.io/badge/Citations-1.6k-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/rusty1s/pytorch_geometric)![GitHub stars](https://img.shields.io/github/stars/rusty1s/pytorch_geometric.svg?logo=github&label=Stars)|
 |arXiv 2018|Relational Inductive Biases, Deep Learning, and Graph Networks|DeepMind| [[paper]](https://arxiv.org/abs/1806.01261)![Scholar citations](https://img.shields.io/badge/Citations-2.0k-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/deepmind/graph_nets)![GitHub stars](https://img.shields.io/github/stars/deepmind/graph_nets.svg?logo=github&label=Stars)|
 ### GNN Compilers
-| Venue | Title | Affiliation | &nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |MLSys 2022|Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph|ShanghaiTech| [[paper]](https://proceedings.mlsys.org/paper/2022/file/a87ff679a2f3e71d9181a67b7542122c-Paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/xiezhq-hermann/graphiler)![GitHub stars](https://img.shields.io/github/stars/xiezhq-hermann/graphiler.svg?logo=github&label=Stars)|
 |MLSys 2022|Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective|THU| [[paper]](https://proceedings.mlsys.org/paper/2022/file/9a1158154dfa42caddbd0694a4e9bdc8-Paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-1-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/dgSPARSE/dgNN)![GitHub stars](https://img.shields.io/github/stars/dgSPARSE/dgNN.svg?logo=github&label=Stars)|
@@ -59,7 +58,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |ICCAD 2020|fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU|UCSB| [[paper]](https://seal.ece.ucsb.edu/sites/default/files/publications/fusegcn_camera_ready_.pdf)![Scholar citations](https://img.shields.io/badge/Citations-6-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/apuaaChen/gcnLib)![GitHub stars](https://img.shields.io/github/stars/apuaaChen/gcnLib.svg?logo=github&label=Stars)|
 |IPDPS 2020|PCGCN: Partition-Centric Processing for Accelerating Graph Convolutional Network|PKU| [[paper]](https://ieeexplore.ieee.org/document/9139807)![Scholar citations](https://img.shields.io/badge/Citations-20-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Distributed GNN Training Systems
-| Venue | Title | Affiliation | Link | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |MLSys 2022|BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Partition-Parallelism and Random Boundary Node Sampling|Rice, UIUC| [[paper]](https://proceedings.mlsys.org/paper/2022/file/d1fe173d08e959397adf34b1d77e88d7-Paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-3-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/RICE-EIC/BNS-GCN)![GitHub stars](https://img.shields.io/github/stars/RICE-EIC/BNS-GCN.svg?logo=github&label=Stars)|
 |MLSys 2022|Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs|Intel| [[paper]](https://arxiv.org/abs/2111.06483)![Scholar citations](https://img.shields.io/badge/Citations-1-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/IntelLabs/SAR)![GitHub stars](https://img.shields.io/github/stars/IntelLabs/SAR.svg?logo=github&label=Stars)|
@@ -82,14 +81,14 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |arXiv 2020|AGL: A Scalable System for Industrial-purpose Graph Machine Learning|Ant Financial Services Group| [[paper]](https://arxiv.org/abs/2003.02454)![Scholar citations](https://img.shields.io/badge/Citations-38-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |ATC 2019|NeuGraph: Parallel Deep Neural Network Computation on Large Graphs|PKU| [[paper]](https://www.usenix.org/system/files/atc19-ma_0.pdf)![Scholar citations](https://img.shields.io/badge/Citations-119-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Training Systems for Scaling Graphs
-| Venue | Title | Affiliation | Link | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |ICML 2022|GraphFM: Improving Large-Scale GNN Training via Feature Momentum|TAMU| [[paper]](https://arxiv.org/abs/2206.07161)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/divelab/DIG/tree/dig/dig/lsgraph)|
 |arXiv 2022|Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine|ETHZ| [[paper]](https://arxiv.org/abs/2202.02365)![Scholar citations](https://img.shields.io/badge/Citations-1-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/marius-team/marius)![GitHub stars](https://img.shields.io/github/stars/marius-team/marius.svg?logo=github&label=Stars)|
 |ICML 2021|GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings|TU Dortmund University| [[paper]](https://arxiv.org/abs/2106.05609)![Scholar citations](https://img.shields.io/badge/Citations-25-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/rusty1s/pyg_autoscale)![GitHub stars](https://img.shields.io/github/stars/rusty1s/pyg_autoscale.svg?logo=github&label=Stars)|
 |OSDI 2021|GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs|UCSB| [[paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)![Scholar citations](https://img.shields.io/badge/Citations-26-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/YukeWang96/OSDI21_AE)![GitHub stars](https://img.shields.io/github/stars/YukeWang96/OSDI21_AE.svg?logo=github&label=Stars)|
 ### Quantized GNNs
-| Venue | Title | Affiliation | Link | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |Neurocomputing 2022|EPQuant: A Graph Neural Network Compression Approach Based on Product Quantization|ZJU| [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222008293)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/Lyun-Huang/EPQuant)![GitHub stars](https://img.shields.io/github/stars/Lyun-Huang/EPQuant.svg?logo=github&label=Stars)|
 |ICLR 2022|EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression|Rice| [[paper]](https://openreview.net/pdf?id=vkaMaq95_rX)![Scholar citations](https://img.shields.io/badge/Citations-6-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/warai-0toko/Exact)![GitHub stars](https://img.shields.io/github/stars/warai-0toko/Exact.svg?logo=github&label=Stars)|
@@ -101,14 +100,14 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |ICLR 2021|Degree-Quant: Quantization-Aware Training for Graph Neural Networks|Cambridge| [[paper]](https://arxiv.org/abs/2008.05000)![Scholar citations](https://img.shields.io/badge/Citations-42-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/camlsys/degree-quant)![GitHub stars](https://img.shields.io/github/stars/camlsys/degree-quant.svg?logo=github&label=Stars)|
 |ICTAI 2020|SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization|UCSB| [[paper]](https://ieeexplore.ieee.org/abstract/document/9288186/)![Scholar citations](https://img.shields.io/badge/Citations-12-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/YukeWang96/SGQuant)![GitHub stars](https://img.shields.io/github/stars/YukeWang96/SGQuant.svg?logo=github&label=Stars)|
 ### GNN Dataloaders
-| Venue | Title | Affiliation | Link | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |NSDI 2023|BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing|ByteDance| [[paper]](https://arxiv.org/abs/2112.08541)![Scholar citations](https://img.shields.io/badge/Citations-3-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |MLSys 2022|Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining|MIT| [[paper]](https://proceedings.mlsys.org/paper/2022/file/35f4a8d465e6e1edc05f3d8ab658c551-Paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-2-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/MITIBMxGraph/SALIENT)![GitHub stars](https://img.shields.io/github/stars/MITIBMxGraph/SALIENT.svg?logo=github&label=Stars)|
 |TPDS 2021|Efficient Data Loader for Fast Sampling-Based GNN Training on Large Graphs|USTC| [[paper]](https://gnnsys.github.io/papers/GNNSys21_paper_8.pdf)![Scholar citations](https://img.shields.io/badge/Citations-4-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/zhiqi-0/PaGraph)![GitHub stars](https://img.shields.io/github/stars/zhiqi-0/PaGraph.svg?logo=github&label=Stars)|
 |arXiv 2019|TigerGraph: A Native MPP Graph Database|UCSD| [[paper]](https://arxiv.org/pdf/1901.08248.pdf)![Scholar citations](https://img.shields.io/badge/Citations-22-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### GNN Training Accelerators
-| Venue | Title | Affiliation | Link | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |ISCA 2022|Graphite: Optimizing Graph Neural Networks on CPUs Through Cooperative Software-Hardware Techniques|UIUC| [[paper]](http://iacoma.cs.uiuc.edu/iacoma-papers/isca22.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |ISCA 2022|Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network|Alibaba| [[paper]](https://dl.acm.org/doi/abs/10.1145/3470496.3527439)![Scholar citations](https://img.shields.io/badge/Citations-1-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
@@ -117,7 +116,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |TCAD 2021|Rubik: A Hierarchical Architecture for Efficient Graph Learning|Chinese Academy of Sciences| [[paper]](https://arxiv.org/pdf/2009.12495.pdf)![Scholar citations](https://img.shields.io/badge/Citations-8-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |FPGA 2020|GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms|USC| [[paper]](https://dl.acm.org/doi/pdf/10.1145/3373087.3375312)![Scholar citations](https://img.shields.io/badge/Citations-69-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/GraphSAINT/GraphACT)![GitHub stars](https://img.shields.io/github/stars/GraphSAINT/GraphACT.svg?logo=github&label=Stars)|
 ### GNN Inference Accelerators
-| Venue | Title | Affiliation | Link | Source |
+| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |IPDPS 2022|Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators|GaTech| [[paper]](https://arxiv.org/abs/2103.07977)![Scholar citations](https://img.shields.io/badge/Citations-3-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/stonne-simulator/omega)![GitHub stars](https://img.shields.io/github/stars/stonne-simulator/omega.svg?logo=github&label=Stars)|
 |CICC 2022|StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing|UCLA| [[paper]](https://web.cs.ucla.edu/~atefehsz/publication/StreamGCN-CICC22.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
