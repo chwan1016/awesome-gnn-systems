@@ -54,7 +54,7 @@ def load_paper(file):
 			table = json.load(f)
 			title = table['title']
 			file.write("### {}\n".format(title))
-			file.write("| Venue | Paper | Affiliation | Paper | Source |\n")
+			file.write("| Venue | Title | Affiliation | Link | Source |\n")
 			file.write("| :---: | :---: | :---------: | :---: | :----: |\n")
 			for paper in table['paper']:
 				file.write("|{}|".format(paper['venue']))

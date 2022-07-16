@@ -3,7 +3,7 @@
     "paper": [
         {
             "venue": "Neurocomputing 2022",
-            "name": "EPQuant: A Graph Neural Network compression approach based on product quantization",
+            "name": "EPQuant: A Graph Neural Network Compression Approach Based on Product Quantization",
             "affiliation": "ZJU",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231222008293",
             "source": "https://github.com/Lyun-Huang/EPQuant"
