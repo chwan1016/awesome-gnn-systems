@@ -54,7 +54,7 @@ def load_paper(file):
 			table = json.load(f)
 			title = table['title']
 			file.write("### {}\n".format(title))
-			file.write("| Venue | Title | Affiliation | Link | Source |\n")
+			file.write("| Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |\n")
 			file.write("| :---: | :---: | :---------: | :---: | :----: |\n")
 			for paper in table['paper']:
 				file.write("|{}|".format(paper['venue']))
@@ -63,6 +63,12 @@ def load_paper(file):
 				if 'link' in paper:
 					file.write(" [[paper]]({})".format(paper['link']))
 					cite = citation[paper['name']]['citation']
+					if cite > 10000:
+						cite = int(cite / 1000 + 0.5)
+						cite = '{}k'.format(cite)
+					elif cite > 1000:
+						cite = int(cite / 100 + 0.5) / 10
+						cite = '{}k'.format(cite)
 					file.write("![Scholar citations](https://img.shields.io/badge/Citations-{}-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)".format(cite))
 				file.write("|")
 				if 'source' in paper:
