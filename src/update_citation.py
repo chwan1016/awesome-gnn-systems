@@ -6,9 +6,9 @@ import random
 import time
 
 def get_citation(name):
-	# TODO: add exception
-	# name = "BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Partition-Parallelism and Random Boundary Node Sampling"
 	prefix = "https://scholar.google.com/scholar?q=allintitle:"
+	name = name.replace('^', '')
+	name = name.replace('$', '')
 	scholar_link = prefix + name
 
 	page = requests.get(scholar_link).text
