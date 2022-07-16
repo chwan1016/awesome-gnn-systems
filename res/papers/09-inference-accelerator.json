@@ -36,7 +36,8 @@
         {
             "venue": "DAC 2021",
             "name": "BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices",
-            "affiliation": "PKU*) [[paepr]](https://arxiv.org/abs/2104.06214"
+            "affiliation": "PKU",
+            "link": "https://arxiv.org/abs/2104.06214"
         },
         {
             "venue": "DAC 2021",
@@ -94,7 +95,7 @@
         },
         {
             "venue": "MICRO 2020",
-            "name": "AWB-GCN: A graph convolutional network accelerator with runtime workload rebalancing",
+            "name": "AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing",
             "affiliation": "PNNL",
             "link": "https://ieeexplore.ieee.org/abstract/document/9252000"
         },

@@ -2,6 +2,8 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import datetime
+import random
+import time
 
 def get_citation(name):
 	# TODO: add exception
@@ -21,20 +23,26 @@ def get_citation(name):
 
 	return s
 
+today = datetime.date.today()
+n_upd = random.randint(3, 5)
+n_upd = 50
+print('n_upd =', n_upd)
+
 with open('../.github/citation/citation.json', 'r') as f:
 	table = json.load(f)
 
 sorted_table = sorted(table.items(), key=lambda item: item[1]['last update'])
 
-today = datetime.date.today()
-
-for item in sorted_table[0:3]:
-	name = item[0]
+for i in range(n_upd):
+	name = sorted_table[i][0]
+	item = sorted_table[i][1]
 	try:
 		cite = get_citation(name)
-		item[1]['citation'] = cite
-		item[1]['last update'] = today.strftime("%Y-%m-%d")
-		print('"' + name + '" updated')
+		item['citation'] = cite
+		item['last update'] = today.strftime("%Y-%m-%d")
+		print('"' + name + '" updated,', 'citation =', cite)
+		if i < n_upd - 1:
+			time.sleep(random.randint(5, 15))
 	except ConnectionRefusedError:
 		print('updating "' + name + '" failed')
 		break
@@ -43,4 +51,3 @@ table = dict(sorted_table)
 
 with open('../.github/citation/citation.json', 'w') as f:
 	json.dump(table, f)
-

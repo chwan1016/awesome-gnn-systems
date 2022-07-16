@@ -31,7 +31,7 @@
         },
         {
             "venue": "VLDB 2019",
-            "name": " AliGraph: A Comprehensive Graph Neural Network Platform",
+            "name": "AliGraph: A Comprehensive Graph Neural Network Platform",
             "affiliation": "Alibaba",
             "link": "https://dl.acm.org/doi/pdf/10.14778/3352063.3352127",
             "source": "https://github.com/alibaba/graph-learn"

@@ -71,7 +71,7 @@
             "name": "Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads",
             "affiliation": "UCLA",
             "link": "http://web.cs.ucla.edu/~harryxu/papers/dorylus-osdi21.pdf",
-            "source": "https://github.com/uclasystem/dorylus) "
+            "source": "https://github.com/uclasystem/dorylus"
         },
         {
             "venue": "EuroSys 2021",

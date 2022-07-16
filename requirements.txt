@@ -1,0 +1,4 @@
+gitpython
+json
+bs4
+requests
