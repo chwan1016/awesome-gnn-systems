@@ -37,5 +37,5 @@ jobs:
         git config --global user.email "rebuild-bot@example.com"
         git config --global user.name "rebuild-bot"
         git add -A
-        git commit -m "[Rebuild-Bot] Updated README.md automatically" || exit 0
+        git commit -m "[Rebuild-Bot] rebuild citation automatically" || exit 0
         git push
