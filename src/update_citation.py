@@ -27,7 +27,7 @@ today = datetime.date.today()
 n_upd = random.randint(3, 5)
 print('n_upd =', n_upd)
 
-with open('../.github/citation/citation.json', 'r') as f:
+with open('.github/citation/citation.json', 'r') as f:
     table = json.load(f)
 
 sorted_table = sorted(table.items(), key=lambda item: item[1]['last update'])
@@ -48,5 +48,5 @@ for i in range(n_upd):
 
 table = dict(sorted_table)
 
-with open('../.github/citation/citation.json', 'w') as f:
+with open('.github/citation/citation.json', 'w') as f:
     json.dump(table, f)

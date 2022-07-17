@@ -2,7 +2,7 @@ import json
 import os
 
 def load_head(file):
-    with open("../res/head.md", 'r') as f:
+    with open("res/head.md", 'r') as f:
         for line in f:
             file.write(line)
 
@@ -11,7 +11,7 @@ def load_content(file):
     file.write("- [Open Source Libraries](#open-source-libraries)\n")
     file.write("- [Papers](#papers)\n")
 
-    path = '../res/papers'
+    path = 'res/papers'
 
     for pf in sorted(os.listdir(path)):
         if not pf.endswith(".json"):
@@ -24,7 +24,7 @@ def load_content(file):
 
 def load_lib(file):
     file.write("## Open Source Libraries\n")
-    with open("../res/library.json", 'r') as f:
+    with open("res/library.json", 'r') as f:
         libraries = json.load(f)
     for lib in libraries:
         name = lib['name']
@@ -35,10 +35,10 @@ def load_lib(file):
 def load_paper(file):
     file.write("## Papers\n")
 
-    with open('../.github/citation/citation.json', 'r') as f:
+    with open('.github/citation/citation.json', 'r') as f:
         citation = json.load(f)
 
-    path = '../res/papers'
+    path = 'res/papers'
     for pf in sorted(os.listdir(path)):
         if not pf.endswith(".json"):
             continue
@@ -91,7 +91,7 @@ def load_paper(file):
                 '''
 
 
-file = open("../README.md", 'w')
+file = open("README.md", 'w')
 
 load_head(file)
 load_content(file)
