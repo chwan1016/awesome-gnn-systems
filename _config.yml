@@ -1,1 +1,3 @@
 markdown: GFM
+html-math-method:
+  method: webtex
