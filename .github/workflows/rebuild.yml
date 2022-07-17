@@ -30,7 +30,7 @@ jobs:
     - name: Rebuild citation json file
       run: |
         python src/rebuild_citation.py
-        python src/update_citation.py        
+        python src/update_readme.py        
     - name: Commit and push if needed
       run: |-
         git diff
