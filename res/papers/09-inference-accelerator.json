@@ -2,6 +2,12 @@
     "title": "GNN Inference Accelerators",
     "paper": [
         {
+            "venue": "DAC 2022",
+            "name": "GNNIE: GNN Inference Engine with Load-balancing and Graph-specific Caching",
+            "affiliation": "UMN",
+            "link": "https://arxiv.org/abs/2105.10554"
+        },
+        {
             "venue": "IPDPS 2022",
             "name": "Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators",
             "affiliation": "GaTech",
