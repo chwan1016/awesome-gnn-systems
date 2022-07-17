@@ -1,0 +1,40 @@
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+concurrency:
+  group: staging_environment
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+    - name: Cache pip
+      uses: actions/cache@v2
+      with:
+        # This path is specific to Ubuntu
+        path: ~/.cache/pip
+        # Look to see if there is a cache hit for the corresponding requirements file
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          ${{ runner.os }}-
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - name: Update citation json file
+      run: |
+        python src/update_citation.py
+        python src/update_readme.py        
+    - name: Commit and push if needed
+      run: |-
+        git diff
+        git config --global user.email "citation-bot@example.com"
+        git config --global user.name "citation-bot"
+        git add -A
+        git commit -m "[Citation-Bot] Updated README.md automatically" || exit 0
+        git push
