@@ -139,5 +139,4 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |HPCA 2020|HyGCN: A GCN Accelerator with Hybrid Architecture|UCSB| [[paper]](https://arxiv.org/pdf/2001.02514.pdf)![Scholar citations](https://img.shields.io/badge/Citations-124-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ## Contribute
 
-We welcome contributions to this repository. To add new papers to this list, please update JSON files under `./res/`. Our bots will update the paper list in `README.md` automatically. The citations of newly added papers will be updated within one day.
-
+We welcome contributions to this repository. To add new papers to this list, please update JSON files under `./res/papers/`. Our bots will update the paper list in `README.md` automatically. The citations of newly added papers will be updated within one day.
