@@ -137,3 +137,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |MICRO 2020|AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing|PNNL| [[paper]](https://ieeexplore.ieee.org/abstract/document/9252000)![Scholar citations](https://img.shields.io/badge/Citations-101-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |arXiv 2020|GRIP: A Graph Neural Network Accelerator Architecture|Stanford| [[paper]](https://arxiv.org/pdf/2007.13828.pdf)![Scholar citations](https://img.shields.io/badge/Citations-37-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |HPCA 2020|HyGCN: A GCN Accelerator with Hybrid Architecture|UCSB| [[paper]](https://arxiv.org/pdf/2001.02514.pdf)![Scholar citations](https://img.shields.io/badge/Citations-124-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+## Contribute
+
+We welcome contributions to this repository. To add new papers to this list, please update JSON files under `./res/`. Our bots will update the paper list in `README.md` automatically. The citations of newly added papers will be updated within one day.
+
