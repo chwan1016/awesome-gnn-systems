@@ -3,7 +3,7 @@ on:
     - cron: "0 * * * *"
 
 concurrency:
-  group: staging_environment
+  group: ${{ github.ref }}
 
 jobs:
   build:

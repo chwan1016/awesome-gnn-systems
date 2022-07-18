@@ -1,9 +1,7 @@
-on:
-  push:
-    branches: [ main ]
+on: [push, pull_request]
 
 concurrency:
-  group: staging_environment
+  group: ${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
