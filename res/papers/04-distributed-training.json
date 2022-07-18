@@ -74,6 +74,12 @@
             "source": "https://github.com/uclasystem/dorylus"
         },
         {
+            "venue": "arXiv 2021",
+            "name": "GIST: Distributed Training for Large-Scale Graph Convolutional Networks",
+            "affiliation": "Rice",
+            "link": "https://arxiv.org/abs/2102.10424"
+        },
+        {
             "venue": "EuroSys 2021",
             "name": "FlexGraph: A Flexible and Efficient Distributed Framework for GNN Training",
             "affiliation": "Alibaba",
