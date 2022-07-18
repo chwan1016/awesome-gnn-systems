@@ -27,7 +27,7 @@ jobs:
           ${{ runner.os }}-
     - name: Install dependencies
       run: pip install -r requirements.txt
-    - name: Rebuild citation json file
+    - name: Rebuild citation
       run: |
         python src/rebuild_citation.py
         python src/update_readme.py        

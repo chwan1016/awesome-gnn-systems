@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
 
 concurrency:
   group: staging_environment
@@ -26,7 +26,7 @@ jobs:
           ${{ runner.os }}-
     - name: Install dependencies
       run: pip install -r requirements.txt
-    - name: Update citation json file
+    - name: Update citation
       run: |
         python src/update_citation.py
         python src/update_readme.py        
@@ -36,5 +36,5 @@ jobs:
         git config --global user.email "citation-bot@example.com"
         git config --global user.name "citation-bot"
         git add -A
-        git commit -m "[Citation-Bot] updated citation automatically" || exit 0
+        git commit -m "[Citation-Bot] update citation automatically" || exit 0
         git push

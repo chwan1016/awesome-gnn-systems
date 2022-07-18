@@ -90,6 +90,11 @@ def load_paper(file):
                 file.write("\n")
                 '''
 
+def load_contribute(file):
+    with open("res/contribute.md", 'r') as f:
+        for line in f:
+            file.write(line)
+
 
 file = open("README.md", 'w')
 
@@ -97,5 +102,6 @@ load_head(file)
 load_content(file)
 load_lib(file)
 load_paper(file)
+load_contribute(file)
 
 file.close()
