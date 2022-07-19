@@ -24,7 +24,7 @@ def get_citation(name):
     return s
 
 today = datetime.date.today()
-n_upd = random.randint(12, 24)
+n_upd = 50  # random.randint(12, 24)
 print('n_upd =', n_upd)
 
 with open('.github/citation/citation.json', 'r') as f:
