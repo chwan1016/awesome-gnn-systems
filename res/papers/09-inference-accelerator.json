@@ -17,7 +17,7 @@
         {
             "venue": "arXiv 2022",
             "name": "FlowGNN: A Dataflow Architecture for Universal Graph Neural Network Inference via Multi-Queue Streaming",
-            "affilation": "GaTech",
+            "affiliation": "GaTech",
             "link": "https://arxiv.org/abs/2204.13103"
         },
         {
