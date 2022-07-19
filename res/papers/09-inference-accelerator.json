@@ -44,7 +44,7 @@
             "name": "GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration",
             "affiliation": "GaTech",
             "link": "https://arxiv.org/abs/2201.08475"
-        }
+        },
         {
             "venue": "DAC 2021",
             "name": "DyGNN: Algorithm and Architecture Support of vertex Dynamic Pruning for Graph Neural Networks",
