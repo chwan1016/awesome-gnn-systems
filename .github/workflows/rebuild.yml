@@ -34,6 +34,7 @@ jobs:
         python src/rebuild_citation.py
         python src/update_readme.py        
     - name: Commit and push if needed
+      if: ${{ github.event_name == 'push' }}
       run: |-
         git diff
         git config --global user.email "rebuild-bot@example.com"
