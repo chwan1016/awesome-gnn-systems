@@ -2,12 +2,6 @@
     "title": "GNN Compilers",
     "paper": [
         {
-            "venue": "arXiv 2022",
-            "name": "SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning",
-            "affiliation": "UW",
-            "link": "https://arxiv.org/abs/2207.04606"
-        },
-        {
             "venue": "MLSys 2022",
             "name": "Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph",
             "affiliation": "ShanghaiTech",
@@ -20,6 +14,12 @@
             "affiliation": "THU",
             "link": "https://proceedings.mlsys.org/paper/2022/file/9a1158154dfa42caddbd0694a4e9bdc8-Paper.pdf",
             "source": "https://github.com/dgSPARSE/dgNN"
+        },
+        {
+            "venue": "arXiv 2022",
+            "name": "SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning",
+            "affiliation": "UW",
+            "link": "https://arxiv.org/abs/2207.04606"
         },
         {
             "venue": "HPDC 2022",
