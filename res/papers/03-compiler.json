@@ -16,12 +16,6 @@
             "source": "https://github.com/dgSPARSE/dgNN"
         },
         {
-            "venue": "arXiv 2022",
-            "name": "SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning",
-            "affiliation": "UW",
-            "link": "https://arxiv.org/abs/2207.04606"
-        },
-        {
             "venue": "HPDC 2022",
             "name": "TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU",
             "affiliation": "GW",
