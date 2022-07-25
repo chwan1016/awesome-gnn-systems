@@ -2,6 +2,12 @@
     "title": "Training Systems for Scaling Graphs",
     "paper": [
         {
+            "venue": "VLDB 2022",
+            "name": "ByteGNN: Efficient Graph Neural Network Training at Large Scale",
+            "affiliation": "ByteDance",
+            "link": "https://dl.acm.org/doi/abs/10.14778/3514061.3514069"
+        },
+        {
             "venue": "ICML 2022",
             "name": "GraphFM: Improving Large-Scale GNN Training via Feature Momentum",
             "affiliation": "TAMU",
