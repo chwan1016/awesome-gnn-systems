@@ -32,7 +32,7 @@ jobs:
     - name: Rebuild citation
       run: |
         python src/rebuild_citation.py
-        python src/update_readme.py        
+        python src/update_readme.py
     - name: Commit and push if needed
       if: ${{ github.event_name == 'push' }}
       run: |-
