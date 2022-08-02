@@ -2,6 +2,13 @@
     "title": "Training Systems for Scaling Graphs",
     "paper": [
         {
+            "venue": "ECML PKDD 2022",
+            "name": "GNN Transformation Framework for Improving Efficiency and Scalability",
+            "affiliation": "Osaka University",
+            "link": "https://arxiv.org/abs/2207.12000",
+            "source": "https://github.com/seijimaekawa/lctransformation"
+        },
+        {
             "venue": "VLDB 2022",
             "name": "ByteGNN: Efficient Graph Neural Network Training at Large Scale",
             "affiliation": "ByteDance",
