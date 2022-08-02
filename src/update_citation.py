@@ -47,6 +47,7 @@ for i in range(n_upd):
         break
 
 table = dict(sorted_table)
+table = sorted(table.items(), key=lambda item: item[1]['last update'])
 
 with open('.github/citation/citation.json', 'w') as f:
     json.dump(table, f)
