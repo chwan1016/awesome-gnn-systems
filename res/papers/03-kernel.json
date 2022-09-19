@@ -1,0 +1,45 @@
+{
+    "title": "GNN Kernels",
+    "paper": [
+        {
+            "venue": "MLSys 2022",
+            "name": "Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective",
+            "affiliation": "THU",
+            "link": "https://proceedings.mlsys.org/paper/2022/file/9a1158154dfa42caddbd0694a4e9bdc8-Paper.pdf",
+            "source": "https://github.com/dgSPARSE/dgNN"
+        },
+        {
+            "venue": "HPDC 2022",
+            "name": "TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU",
+            "affiliation": "GW",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3502181.3531467"
+        },
+        {
+            "venue": "IPDPS 2021",
+            "name": "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks",
+            "affiliation": "Indiana University Bloomington",
+            "link": "https://arxiv.org/abs/2011.06391",
+            "source": "https://github.com/HipGraph/FusedMM"
+        },
+        {
+            "venue": "SC 2020",
+            "name": "GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks",
+            "affiliation": "THU",
+            "link": "https://arxiv.org/abs/2007.03179",
+            "source": "https://github.com/hgyhungry/ge-spmm"
+        },
+        {
+            "venue": "ICCAD 2020",
+            "name": "fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU",
+            "affiliation": "UCSB",
+            "link": "https://seal.ece.ucsb.edu/sites/default/files/publications/fusegcn_camera_ready_.pdf",
+            "source": "https://github.com/apuaaChen/gcnLib"
+        },
+        {
+            "venue": "IPDPS 2020",
+            "name": "PCGCN: Partition-Centric Processing for Accelerating Graph Convolutional Network",
+            "affiliation": "PKU",
+            "link": "https://ieeexplore.ieee.org/document/9139807"
+        }
+    ]
+}

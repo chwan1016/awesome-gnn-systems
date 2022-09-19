@@ -1,0 +1,32 @@
+{
+    "title": "GNN Compilers",
+    "paper": [
+        {
+            "venue": "MLSys 2022",
+            "name": "Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph",
+            "affiliation": "ShanghaiTech",
+            "link": "https://proceedings.mlsys.org/paper/2022/file/a87ff679a2f3e71d9181a67b7542122c-Paper.pdf",
+            "source": "https://github.com/xiezhq-hermann/graphiler"
+        },
+        {
+            "venue": "MLSys 2022",
+            "name": "Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective",
+            "affiliation": "THU",
+            "link": "https://proceedings.mlsys.org/paper/2022/file/9a1158154dfa42caddbd0694a4e9bdc8-Paper.pdf",
+            "source": "https://github.com/dgSPARSE/dgNN"
+        },
+        {
+            "venue": "EuroSys 2021",
+            "name": "Seastar: Vertex-Centric Programming for Graph Neural Networks",
+            "affiliation": "CUHK",
+            "link": "http://www.cse.cuhk.edu.hk/~jcheng/papers/seastar_eurosys21.pdf"
+        },
+        {
+            "venue": "SC 2020",
+            "name": "FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems",
+            "affiliation": "Cornell",
+            "link": "https://arxiv.org/pdf/2008.11359.pdf",
+            "source": "https://github.com/dglai/FeatGraph"
+        }
+    ]
+}

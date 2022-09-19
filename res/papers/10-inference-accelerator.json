@@ -2,6 +2,12 @@
     "title": "GNN Inference Accelerators",
     "paper": [
         {
+            "venue": "JAIHC 2022",
+            "name": "DRGN: a dynamically reconfigurable accelerator for graph neural networks",
+            "affiliation": "XJTU",
+            "link": "https://link.springer.com/article/10.1007/s12652-022-04402-x"
+        },
+        {
             "venue": "DAC 2022",
             "name": "GNNIE: GNN Inference Engine with Load-balancing and Graph-specific Caching",
             "affiliation": "UMN",

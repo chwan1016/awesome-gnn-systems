@@ -100,13 +100,6 @@
             "source": "https://github.com/PASSIONLab/CAGNET"
         },
         {
-            "venue": "SoCC 2020",
-            "name": "PaGraph: Scaling GNN Training on Large Graphs via Computation-aware Caching",
-            "affiliation": "USTC",
-            "link": "https://dl.acm.org/doi/pdf/10.1145/3419111.3421281",
-            "source": "https://github.com/zhiqi-0/PaGraph"
-        },
-        {
             "venue": "VLDB 2020",
             "name": "G$^3$: When Graph Neural Networks Meet Parallel Graph Processing Systems on GPUs",
             "affiliation": "NUS",

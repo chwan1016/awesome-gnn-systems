@@ -12,12 +12,12 @@
             "name": "GraphFM: Improving Large-Scale GNN Training via Feature Momentum",
             "affiliation": "TAMU",
             "link": "https://arxiv.org/abs/2206.07161",
-            "source": "https://github.com/divelab/DIG/tree/dig/dig/lsgraph"
+            "source": "https://github.com/divelab/DIG/tree/dig-stable/dig/lsgraph"
         },
         {
             "venue": "arXiv 2022",
             "name": "Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine",
-            "affiliation": "ETHZ",
+            "affiliation": "UW–Madison",
             "link": "https://arxiv.org/abs/2202.02365",
             "source": "https://github.com/marius-team/marius"
         },

@@ -1,0 +1,65 @@
+{
+    "title": "GNN Dataloaders",
+    "paper": [
+        {
+            "venue": "NSDI 2023",
+            "name": "BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing",
+            "affiliation": "ByteDance",
+            "link": "https://arxiv.org/abs/2112.08541"
+        },
+        {
+            "venue": "MLSys 2022",
+            "name": "Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining",
+            "affiliation": "MIT",
+            "link": "https://proceedings.mlsys.org/paper/2022/file/35f4a8d465e6e1edc05f3d8ab658c551-Paper.pdf",
+            "source": "https://github.com/MITIBMxGraph/SALIENT"
+        },
+        {
+            "venue": "EuroSys 2022",
+            "name": "GNNLab: A Factored System for Sample-based GNN Training over GPUs",
+            "affiliation": "SJTU",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3492321.3519557",
+            "source": "https://github.com/SJTU-IPADS/gnnlab"
+        },
+        {
+            "venue": "KDD 2021",
+            "name": "Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs",
+            "affiliation": "UCLA",
+            "link": "https://arxiv.org/pdf/2106.06150.pdf"
+        },
+        {
+            "venue": "PPoPP 2021",
+            "name": "Understanding and Bridging the Gaps in Current GNN Performance Optimizations",
+            "affiliation": "THU",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3437801.3441585",
+            "source": "https://github.com/xxcclong/GNN-Computing"
+        },
+        {
+            "venue": "VLDB 2021",
+            "name": "Large Graph Convolutional Network Training with GPU-Oriented Data Communication Architecture",
+            "affiliation": "UIUC",
+            "link": "https://arxiv.org/abs/2103.03330",
+            "source": "https://github.com/K-Wu/pytorch-direct_dgl"
+        },
+        {
+            "venue": "TPDS 2021",
+            "name": "Efficient Data Loader for Fast Sampling-Based GNN Training on Large Graphs",
+            "affiliation": "USTC",
+            "link": "https://gnnsys.github.io/papers/GNNSys21_paper_8.pdf",
+            "source": "https://github.com/zhiqi-0/PaGraph"
+        },
+        {
+            "venue": "SoCC 2020",
+            "name": "PaGraph: Scaling GNN Training on Large Graphs via Computation-aware Caching",
+            "affiliation": "USTC",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3419111.3421281",
+            "source": "https://github.com/zhiqi-0/PaGraph"
+        },
+        {
+            "venue": "arXiv 2019",
+            "name": "TigerGraph: A Native MPP Graph Database",
+            "affiliation": "UCSD",
+            "link": "https://arxiv.org/pdf/1901.08248.pdf"
+        }
+    ]
+}

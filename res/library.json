@@ -36,11 +36,15 @@
 		"source": "https://github.com/divelab/DIG"
 	},
 	{
+		"name": "Jraph: A Graph Neural Network Library in Jax",
+		"source": "https://github.com/deepmind/jraph"
+	},
+	{
 		"name": "Graph-Learn: An Industrial Graph Neural Network Framework",
 		"source": "https://github.com/alibaba/graph-learn"
 	},
 	{
-		"name": "Jraph: A Graph Neural Network Library in Jax",
-		"source": "https://github.com/deepmind/jraph"
+		"name": "DeepGNN: a Framework for Training Machine Learning Models on Large Scale Graph Data",
+		"source": "https://github.com/microsoft/DeepGNN"
 	}
 ]
