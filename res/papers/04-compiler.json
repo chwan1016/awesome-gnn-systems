@@ -9,13 +9,6 @@
             "source": "https://github.com/xiezhq-hermann/graphiler"
         },
         {
-            "venue": "MLSys 2022",
-            "name": "Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective",
-            "affiliation": "THU",
-            "link": "https://proceedings.mlsys.org/paper/2022/file/9a1158154dfa42caddbd0694a4e9bdc8-Paper.pdf",
-            "source": "https://github.com/dgSPARSE/dgNN"
-        },
-        {
             "venue": "EuroSys 2021",
             "name": "Seastar: Vertex-Centric Programming for Graph Neural Networks",
             "affiliation": "CUHK",
