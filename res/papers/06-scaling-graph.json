@@ -2,6 +2,13 @@
     "title": "Training Systems for Scaling Graphs",
     "paper": [
         {
+            "venue": "EuroSys 2023",
+            "name": "Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine",
+            "affiliation": "UW–Madison",
+            "link": "https://arxiv.org/abs/2202.02365",
+            "source": "https://github.com/marius-team/marius"
+        },
+        {
             "venue": "VLDB 2022",
             "name": "ByteGNN: Efficient Graph Neural Network Training at Large Scale",
             "affiliation": "ByteDance",
@@ -13,13 +20,6 @@
             "affiliation": "TAMU",
             "link": "https://arxiv.org/abs/2206.07161",
             "source": "https://github.com/divelab/DIG/tree/dig-stable/dig/lsgraph"
-        },
-        {
-            "venue": "arXiv 2022",
-            "name": "Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine",
-            "affiliation": "UW–Madison",
-            "link": "https://arxiv.org/abs/2202.02365",
-            "source": "https://github.com/marius-team/marius"
         },
         {
             "venue": "ICML 2021",
