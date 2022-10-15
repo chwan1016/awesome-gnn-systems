@@ -2,6 +2,13 @@
     "title": "Distributed GNN Training Systems",
     "paper": [
         {
+            "venue": "VLDB 2022",
+            "name": "Sancus: : Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks",
+            "affiliation": "HKUST",
+            "link": "https://www.vldb.org/pvldb/vol15/p1937-peng.pdf",
+            "source": "https://github.com/chenzhao/light-dist-gnn"
+        },
+        {
             "venue": "MLSys 2022",
             "name": "BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Partition-Parallelism and Random Boundary Node Sampling",
             "affiliation": "Rice, UIUC",
