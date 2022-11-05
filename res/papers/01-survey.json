@@ -2,6 +2,12 @@
     "title": "Survey Papers",
     "paper": [
         {
+            "name": "Distributed Graph Neural Network Training: A Survey",
+            "venue": "arXiv 2022",
+            "affiliation": "BUPT",
+            "link": "https://arxiv.org/abs/2211.00216"
+        },
+        {
             "name": "Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis",
             "venue": "arXiv 2022",
             "affiliation": "ETHZ",
