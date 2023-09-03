@@ -2,6 +2,19 @@
     "title": "Distributed GNN Training Systems",
     "paper": [
         {
+            "venue": "arXiv 2023",
+            "name": "GNNPipe: Accelerating Distributed Full-Graph GNN Training with Pipelined Model Parallelism",
+            "affiliation": "Purdue",
+            "link": "https://arxiv.org/pdf/2308.10087.pdf"
+        },
+        {
+            "venue": "OSDI 2023",
+            "name": "MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms",
+            "affiliation": "UCSB",
+            "link": "https://www.usenix.org/system/files/osdi23-wang-yuke.pdf",
+            "source": "https://github.com/YukeWang96/MGG_OSDI23"
+        },
+        {
             "venue": "VLDB 2022",
             "name": "Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks",
             "affiliation": "HKUST",
