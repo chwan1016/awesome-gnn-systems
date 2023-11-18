@@ -4,7 +4,7 @@
         {
             "venue": "EuroSys 2023",
             "name": "Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine",
-            "affiliation": "UW–Madison",
+            "affiliation": "UW-Madison",
             "link": "https://arxiv.org/abs/2202.02365",
             "source": "https://github.com/marius-team/marius"
         },
@@ -27,6 +27,13 @@
             "affiliation": "TU Dortmund University",
             "link": "https://arxiv.org/abs/2106.05609",
             "source": "https://github.com/rusty1s/pyg_autoscale"
+        },
+        {
+            "venue": "OSDI 2021",
+            "name": "Marius: Learning Massive Graph Embeddings on a Single Machine",
+            "affiliation": "UW-Madison",
+            "link": "https://www.usenix.org/system/files/osdi21-mohoney.pdf",
+            "source": "https://github.com/marius-team/marius"
         },
         {
             "venue": "OSDI 2021",
