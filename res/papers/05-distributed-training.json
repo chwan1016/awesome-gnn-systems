@@ -3,6 +3,12 @@
     "paper": [
         {
             "venue": "arXiv 2023",
+            "name": "Communication-Free Distributed GNN Training with Vertex Cut",
+            "affiliation": "Stanford",
+            "link": "https://arxiv.org/pdf/2308.03209.pdf"
+        },
+        {
+            "venue": "arXiv 2023",
             "name": "GNNPipe: Accelerating Distributed Full-Graph GNN Training with Pipelined Model Parallelism",
             "affiliation": "Purdue",
             "link": "https://arxiv.org/pdf/2308.10087.pdf"

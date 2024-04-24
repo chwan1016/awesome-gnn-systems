@@ -3,7 +3,7 @@
     "paper": [
         {
             "venue": "EuroSys 2023",
-            "name": "Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine",
+            "name": "MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks",
             "affiliation": "UW–Madison",
             "link": "https://arxiv.org/abs/2202.02365",
             "source": "https://github.com/marius-team/marius"
