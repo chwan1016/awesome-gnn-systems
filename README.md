@@ -33,7 +33,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |arXiv 2022|Distributed Graph Neural Network Training: A Survey|BUPT| [[paper]](https://arxiv.org/abs/2211.00216)![Scholar citations](https://img.shields.io/badge/Citations-24-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|arXiv 2022|Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis|ETHZ| [[paper]](https://arxiv.org/abs/2205.09702)![Scholar citations](https://img.shields.io/badge/Citations-36-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|arXiv 2022|Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis|ETHZ| [[paper]](https://arxiv.org/abs/2205.09702)![Scholar citations](https://img.shields.io/badge/Citations-37-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |CSUR 2022|Computing Graph Neural Networks: A Survey from Algorithms to Accelerators|UPC| [[paper]](https://dl.acm.org/doi/10.1145/3477141)![Scholar citations](https://img.shields.io/badge/Citations-217-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### GNN Libraries
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
@@ -59,7 +59,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 | :---: | :---: | :---------: | :---: | :----: |
 |MLSys 2022|Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph|ShanghaiTech| [[paper]](https://proceedings.mlsys.org/paper/2022/file/a87ff679a2f3e71d9181a67b7542122c-Paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-23-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/xiezhq-hermann/graphiler)![GitHub stars](https://img.shields.io/github/stars/xiezhq-hermann/graphiler.svg?logo=github&label=Stars)|
 |EuroSys 2021|Seastar: Vertex-Centric Programming for Graph Neural Networks|CUHK| [[paper]](http://www.cse.cuhk.edu.hk/~jcheng/papers/seastar_eurosys21.pdf)![Scholar citations](https://img.shields.io/badge/Citations-51-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|SC 2020|FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems|Cornell| [[paper]](https://arxiv.org/pdf/2008.11359.pdf)![Scholar citations](https://img.shields.io/badge/Citations-83-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/dglai/FeatGraph)![GitHub stars](https://img.shields.io/github/stars/dglai/FeatGraph.svg?logo=github&label=Stars)|
+|SC 2020|FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems|Cornell| [[paper]](https://arxiv.org/pdf/2008.11359.pdf)![Scholar citations](https://img.shields.io/badge/Citations-84-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/dglai/FeatGraph)![GitHub stars](https://img.shields.io/github/stars/dglai/FeatGraph.svg?logo=github&label=Stars)|
 ### Distributed GNN Training Systems
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
@@ -127,7 +127,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |arXiv 2021|GCNear: A Hybrid Architecture for Efficient GCN Training with Near-Memory Processing|PKU| [[paper]](https://arxiv.org/abs/2111.00680)![Scholar citations](https://img.shields.io/badge/Citations-10-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |DATE 2021|ReGraphX: NoC-enabled 3D Heterogeneous ReRAM Architecture for Training Graph Neural Networks|WSU| [[paper]](https://arxiv.org/abs/2102.07959)![Scholar citations](https://img.shields.io/badge/Citations-30-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |TCAD 2021|Rubik: A Hierarchical Architecture for Efficient Graph Learning|Chinese Academy of Sciences| [[paper]](https://arxiv.org/pdf/2009.12495.pdf)![Scholar citations](https://img.shields.io/badge/Citations-13-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|FPGA 2020|GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms|USC| [[paper]](https://dl.acm.org/doi/pdf/10.1145/3373087.3375312)![Scholar citations](https://img.shields.io/badge/Citations-134-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/GraphSAINT/GraphACT)![GitHub stars](https://img.shields.io/github/stars/GraphSAINT/GraphACT.svg?logo=github&label=Stars)|
+|FPGA 2020|GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms|USC| [[paper]](https://dl.acm.org/doi/pdf/10.1145/3373087.3375312)![Scholar citations](https://img.shields.io/badge/Citations-135-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/GraphSAINT/GraphACT)![GitHub stars](https://img.shields.io/github/stars/GraphSAINT/GraphACT.svg?logo=github&label=Stars)|
 ### GNN Inference Accelerators
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
@@ -152,7 +152,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |DAC 2020|Hardware Acceleration of Graph Neural Networks|UIUC| [[paper]](http://rakeshk.web.engr.illinois.edu/dac20.pdf)![Scholar citations](https://img.shields.io/badge/Citations-124-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |MICRO 2020|AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing|PNNL| [[paper]](https://ieeexplore.ieee.org/abstract/document/9252000)![Scholar citations](https://img.shields.io/badge/Citations-254-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |arXiv 2020|GRIP: A Graph Neural Network Accelerator Architecture|Stanford| [[paper]](https://arxiv.org/pdf/2007.13828.pdf)![Scholar citations](https://img.shields.io/badge/Citations-86-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|HPCA 2020|HyGCN: A GCN Accelerator with Hybrid Architecture|UCSB| [[paper]](https://arxiv.org/pdf/2001.02514.pdf)![Scholar citations](https://img.shields.io/badge/Citations-307-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|HPCA 2020|HyGCN: A GCN Accelerator with Hybrid Architecture|UCSB| [[paper]](https://arxiv.org/pdf/2001.02514.pdf)![Scholar citations](https://img.shields.io/badge/Citations-309-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ## Contribute
 
 We welcome contributions to [this repository](https://github.com/chwan1016/awesome-gnn-systems). To add new papers to this list, please update JSON files under `./res/papers/`. Our bots will update the paper list in `README.md` automatically. The citations of newly added papers will be updated within one day.
