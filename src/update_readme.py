@@ -69,26 +69,7 @@ def load_paper(file):
                     repo = source.split('github.com/', 1)[1]
                     if repo.count('/') == 1:
                         file.write("![GitHub stars](https://img.shields.io/github/stars/{}.svg?logo=github&label=Stars)".format(repo))
-
                 file.write("|\n")
-
-                '''
-                file.write("- [**{}**]".format(paper['venue']))
-                file.write(" {}".format(paper['name']))
-                file.write(" (*{}*)".format(paper['affiliation']))
-                if 'link' in paper:
-                    file.write(" [[paper]]({})".format(paper['link']))
-                    cite = citation[paper['name']]['citation']
-                    file.write("![Scholar citations](https://img.shields.io/badge/Citations-{}-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)".format(cite))
-                if 'source' in paper:
-                    source = paper['source']
-                    file.write(" [[code]]({})".format(source))
-                    repo = source.split('github.com/', 1)[1]
-                    if repo.count('/') == 1:
-                        file.write("![GitHub stars](https://img.shields.io/github/stars/{}.svg?logo=github&label=Stars)".format(repo))
-
-                file.write("\n")
-                '''
 
 def load_contribute(file):
     with open("res/contribute.md", 'r') as f:
