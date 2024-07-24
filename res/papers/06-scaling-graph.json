@@ -2,6 +2,19 @@
     "title": "Training Systems for Scaling Graphs",
     "paper": [
         {
+            "venue": "DaMoN 2024",
+            "name": "In situ neighborhood sampling for large-scale GNN training",
+            "affiliation":"Boston University",
+            "link": "https://dl.acm.org/doi/10.1145/3662010.3663443",
+            "source":"https://github.com/CASP-Systems-BU/damon24-gnn-in-situ-sampling/"
+        },
+        {
+            "venue": "HPCA 2024",
+            "name": "BeaconGNN: Large-Scale GNN Acceleration with Out-of-Order Streaming In-Storage Computing",
+            "affiliation": "UCLA",
+            "link": "https://ieeexplore.ieee.org/abstract/document/10476427"
+        },
+        {
             "venue": "EuroSys 2023",
             "name": "MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks",
             "affiliation": "UW–Madison",
@@ -13,6 +26,19 @@
             "name": "ByteGNN: Efficient Graph Neural Network Training at Large Scale",
             "affiliation": "ByteDance",
             "link": "https://dl.acm.org/doi/abs/10.14778/3514061.3514069"
+        },
+        {
+            "venue": "VLDB 2022",
+            "name": "Ginex: SSD-enabled Billion-scale Graph Neural Network Training on a Single Machine via Provably Optimal In-memory Caching",
+            "affiliation": "Seoul National University",
+            "link": "https://dl.acm.org/doi/10.14778/3551793.3551819",
+            "source": "i.wendabao-a.net/?inviter=18436&utm_source=invite#/?inviter=18436"
+        },
+        {
+            "venue": "ISCA 2022",
+            "name":"SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures",
+            "affiliation": "KAIST",
+            "link":"https://dl.acm.org/doi/10.1145/3470496.3527391"
         },
         {
             "venue": "ICML 2022",
