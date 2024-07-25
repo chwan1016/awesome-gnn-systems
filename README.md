@@ -32,11 +32,10 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 ### Survey Papers
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
-|CSUR 2024|Distributed Graph Neural Network Training: A Survey|PKU| [[paper]](https://dl.acm.org/doi/10.1145/3648358)![Scholar citations](https://img.shields.io/badge/Citations-25-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|CSUR 2024|Distributed Graph Neural Network Training: A Survey|BUPT| [[paper]](https://dl.acm.org/doi/10.1145/3648358)![Scholar citations](https://img.shields.io/badge/Citations-25-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |Proceedings of the IEEE 2023|A Comprehensive Survey on Distributed Training of Graph Neural Networks|Chinese Academy of Sciences| [[paper]](https://ieeexplore.ieee.org/abstract/document/10348966)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |arXiv 2023|A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware|UCLA| [[paper]](https://arxiv.org/abs/2306.14052)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |arXiv 2022|Graph Learning and Its Applications: A Holistic Survey|Southwestern University of Finance and Economics| [[paper]](http://arxiv.org/abs/2212.08966)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|arXiv 2022|Distributed Graph Neural Network Training: A Survey|BUPT| [[paper]](https://arxiv.org/abs/2211.00216)![Scholar citations](https://img.shields.io/badge/Citations-25-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |arXiv 2022|Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis|ETHZ| [[paper]](https://arxiv.org/abs/2205.09702)![Scholar citations](https://img.shields.io/badge/Citations-37-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |CSUR 2022|Computing Graph Neural Networks: A Survey from Algorithms to Accelerators|UPC| [[paper]](https://dl.acm.org/doi/10.1145/3477141)![Scholar citations](https://img.shields.io/badge/Citations-220-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### GNN Libraries
