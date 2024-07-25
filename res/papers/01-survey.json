@@ -4,7 +4,7 @@
         {
             "name": "Distributed Graph Neural Network Training: A Survey",
             "venue": "CSUR 2024",
-            "affiliation": "PKU",
+            "affiliation": "BUPT",
             "link": "https://dl.acm.org/doi/10.1145/3648358"
         },
         {
@@ -24,12 +24,6 @@
             "venue": "arXiv 2022",
             "affiliation": "Southwestern University of Finance and Economics",
             "link": "http://arxiv.org/abs/2212.08966"
-        },
-        {
-            "name": "Distributed Graph Neural Network Training: A Survey",
-            "venue": "arXiv 2022",
-            "affiliation": "BUPT",
-            "link": "https://arxiv.org/abs/2211.00216"
         },
         {
             "name": "Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis",
