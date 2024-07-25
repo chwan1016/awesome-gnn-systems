@@ -3,21 +3,27 @@
     "paper": [
         {
             "name": "Distributed Graph Neural Network Training: A Survey",
-            "venue": "ACM Computing Surveys 2024",
-            "affiliation":"PKU",
-            "link":"https://dl.acm.org/doi/10.1145/3648358"
+            "venue": "CSUR 2024",
+            "affiliation": "PKU",
+            "link": "https://dl.acm.org/doi/10.1145/3648358"
         },
         {
             "name": "A Comprehensive Survey on Distributed Training of Graph Neural Networks",
             "venue": "Proceedings of the IEEE 2023",
             "affiliation": "Chinese Academy of Sciences",
-            "link":"https://ieeexplore.ieee.org/abstract/document/10348966"
+            "link": "https://ieeexplore.ieee.org/abstract/document/10348966"
+        },
+        {
+            "name": "A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware",
+            "venue": "arXiv 2023",
+            "affiliation": "UCLA",
+            "link": "https://arxiv.org/abs/2306.14052"
         },
         {
             "name": "Graph Learning and Its Applications: A Holistic Survey",
-            "venue": "arXiv 2023",
+            "venue": "arXiv 2022",
             "affiliation": "Southwestern University of Finance and Economics",
-            "link":"http://arxiv.org/abs/2212.08966"
+            "link": "http://arxiv.org/abs/2212.08966"
         },
         {
             "name": "Distributed Graph Neural Network Training: A Survey",
